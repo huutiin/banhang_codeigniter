@@ -1,0 +1,50 @@
+Client ID: 668428752956-d8i6ac0jemot2pj8q1gc4hcqlnpknom0.apps.googleusercontent.com
+Client Secret: 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
+
+Terminal ID / Mã Website (vnp_TmnCode): L9A4GM1Y
+Secret Key / Chuỗi bí mật tạo checksum (vnp_HashSecret): JOLEYEPUFBTHJZEEQDWLQEKYERQLNWZY
+
+Ngân hàng	      NCB
+Số thẻ	          9704198526191432198
+Tên chủ thẻ	      NGUYEN VAN A
+Ngày phát hành	  07/15
+Mật khẩu OTP	  123456
+------------------------------------------------------------------------------------------------
+Host:			http://smartstore.ueuo.com/
+
+Cpanel:			http://smartstore.ueuo.com/cpanel.
+Username: 		smartstore.ueuo.com
+Password: 		baotrung19004223
+
+FTP Server/Host: 		smartstore.ueuo.com
+FTP Login/Username: 	smartstore.ueuo.com
+FTP PassWord: 		baotrung19004223
+
+PhpMyAdmin: 		http://smartstore.ueuo.com/pma/
+
+MySQL Main Database name: 	481915
+MySQL Database username: 	481915
+MySQL Database password: 	baotrung19004223
+MySQL Database host: 	localhost
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Your Website URL:		http://smartstore.byethost7.com
+Control panel URL:		cpanel.byethost7.com
+
+Control panel username:	b7_33160872
+Control panel password:	19004223
+
+MySQL hostname:		sql305.byethost7.com
+MySQL username		b7_33160872
+MySQL password:		19004223
+MySQL DB Name		b7_33160872_qlbanhang
+
+FTP host name:		ftp.byethost7.com
+FTP username:		b7_33160872
+FTP password:		19004223
+
+
+
+
+ 	 
